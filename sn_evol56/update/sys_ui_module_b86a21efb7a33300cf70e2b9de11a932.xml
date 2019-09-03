@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="t2">b06a21efb7a33300cf70e2b9de11a930</application>
+        <filter/>
+        <name>t2s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_evol56.t2_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-03 19:10:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b86a21efb7a33300cf70e2b9de11a932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>t2s</sys_name>
+        <sys_package display_value="evol56" source="sn_evol56">3339e92fb7a33300cf70e2b9de11a992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="evol56">3339e92fb7a33300cf70e2b9de11a992</sys_scope>
+        <sys_update_name>sys_ui_module_b86a21efb7a33300cf70e2b9de11a932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-03 19:10:37</sys_updated_on>
+        <table>sn_evol56_t2</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
